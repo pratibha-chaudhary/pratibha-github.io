@@ -1,2 +1,2 @@
 # pratibha-github.io
-platform for selling and buying faucets 
+This website platform for selling and buying faucets using Codeigniter v3.1
